@@ -1,0 +1,46 @@
+Part 1: Introduction
+Good morning everyone, my name is Hong, and I’ll be your Implementation Consultant for this project.
+I’ll be leading the implementation of the Payment and Charging Exports for the Local Authority, and I’ll be your primary point of contact from today right through to go live and beyond.
+A little bit about myself, I have been working with Controcc for many years, I have a deep understanding of how the system handles payments, charging rules, and financial exports. Alongside that, I bring strong analytical skills, which help me understand your current processes and translate them accurately into the system. I’m also very used to working with a wide range of stakeholders, so clear communication and keeping everyone aligned is something I take seriously.
+A bit more about my role: as your Implementation Consultant, my job is to guide you through every stage of the process—planning, configuration, testing, deployment, and post implementation support. I’m here to make sure the solution not only works technically, but also fits smoothly into your operational processes and delivers the outcomes you expect.
+Throughout the project, I’ll be your single, consistent point of contact, which means you won’t need to navigate multiple teams or repeat information. If anything needs attention—whether it’s a question, a concern, or a change in requirements—you can come directly to me, and I’ll make sure it’s handled promptly and clearly.
+I’m really looking forward to working with you all and ensuring this implementation is smooth, collaborative, and successful.
+
+Part 2: Succes factors and risks
+“Before we get into the detail of the plan, I would like to highlight a few things that will really help us make this project a success.”
+“First, clear and timely communication is absolutely key.”
+If anything comes up — questions, uncertainties, or decisions that need to be made — raising them early helps us keep everything moving in the right direction.
+“Second, having access to the right people at the right time makes a huge difference.”
+The people who understand your current payment and charging processes are essential for validating requirements and confirming that everything is configured correctly.
+“Third, agreeing on scope and priorities from the start helps us stay focused.”
+When we all share the same understanding of what’s included and what isn’t, it reduces confusion and avoids delays later on.
+“Fourth, sticking to timelines for tasks and feedback is really important.”
+Whether it’s reviewing configuration or completing testing, staying on schedule helps us maintain momentum and hit our milestones.
+“And finally, strong collaboration and openness.”
+If there are challenges, constraints, or complexities in your processes, being open about them early helps me tailor the solution properly and avoid surprises later.
+“On the other side, there are a few risks we should be aware of — not to worry anyone, but so we can manage them proactively.”
+“One risk is delays in providing information or decisions.”
+If key data or approvals are held up, it can push back configuration, testing, and ultimately the go live date.
+“Another risk is limited availability of key staff.”
+If the people who understand your processes aren’t available when we need them, it can slow down requirements gathering or testing.
+“Changes to scope mid project can also have an impact.”
+Adding new requirements late in the process can affect timelines and quality unless we manage those changes carefully.
+“Data quality is another area to watch.”
+If the data used for exports or charging rules isn’t accurate or complete, it can lead to unexpected results during testing.
+“And finally, engagement during testing is crucial.”
+Testing is where we catch issues early. If testing is rushed or incomplete, problems may only show up after go live, which is much harder to fix.
+
+Part 3: Typical phases
+“So now that we’ve talked about what helps a project succeed, and the risks we want to avoid, I’d like to walk you through the typical phases of a software implementation. This will give you a clear picture of how we’ll move from where we are today to a fully working solution.”
+“The first phase is the Discovery or Requirements phase.”
+This is where we make sure we fully understand your current processes, your data, and what you need the system to do. We’ll confirm the scope, gather the right information, and make sure we’re all aligned before any configuration begins.
+“The second phase is Configuration.”
+This is where I take everything we’ve agreed and start building it into Controcc — setting up the payment and charging exports, applying your rules, and tailoring the system so it works for your local authority’s needs.
+“Once configuration is in place, we move into Testing.”
+This is a really important phase. We’ll work together to run through real world scenarios, check the outputs, and make sure everything behaves exactly as expected. Any tweaks or adjustments will be made here.
+“After testing, we move into the Deployment or Go Live phase.”
+This is where the new configuration is moved into your live environment. We’ll plan this carefully to minimise disruption and make sure everything is ready for day to day use.
+“And finally, we have the Post Go Live Support phase.”
+Once you’re live, I’ll stay with you for a period of time to make sure everything is running smoothly, answer any questions, and help resolve anything that comes up as you start using the new exports in real operations.
+“So those are the key phases — discovery, configuration, testing, deployment, and post go live support. We’ll work through each one together, and I’ll guide you at every step so you always know what’s coming next.”
+
